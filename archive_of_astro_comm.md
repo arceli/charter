@@ -1,6 +1,6 @@
 - There is an "Archive of Informal Astronomy Communications" (name TBD);
   * The Archive has an editor and board that is backed by astro libraries and the AAS or similar organizations,
-  * The Journal is fundamentally a Zenodo curated community,
+  * The Archive is fundamentally a Zenodo curated community,
   * ADS agrees to index the resources of this Zenodo community,
   * Astronomy blogs apply for affiliation with the Archive as authors (or use an arXiv-like endorsement model).
 - The blogger posts an article as usual.
@@ -9,5 +9,5 @@
   * The deposition is made through the Archive's community submission form on Zenodo or through the REST API.
   * The Archive accepts the submission with minimal oversight because the blog is affiliated (trusted). This reduces the Archives's operational cost.
   * The blogger gets a DOI for the article and it is up the blogger to put this DOI in the blog's markup.
-- ADS indexes the resources from the Archive.
+- ADS indexes the Archive's resources.
 - If the Archive editor/board finds a blog breaching its guidelines there is some mechanism for the blog to lose affiliate status and have articles removed from the Zenodo community and ADS.
