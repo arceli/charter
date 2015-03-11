@@ -24,20 +24,45 @@ This is a working document that specifies how the Archive will work.
 ## Governance
 
 (stub)
+whoever can talk the loudest/type the fastest gets their way.
 
 ## Moderation
 
 ### Accepted Subjects
 
-(stub)
+(draft)
+anything relevant to the astronomy community that doesn't have a home elsewhere
+
+### Not Accepted Subjects
+
+(draft)
+scientific results that could otherwise be published on the arxiv
 
 ### Accepted Media
 
+(draft)
+blog posts that contain text and images
+ipython notebooks which contain explanatory text
+videos - paper summaries, tutorials, etc.
+animations and graphics? - visuals which could be of use to wider community
+talk slides? - talk slides with relevance to the wider community.
+
+### Not Accepted Media
+
 (stub)
+pre-print style journal articles that would otherwise go on the arxiv
 
 ## Technical Aspects of Submitting to the Archive
 
-(stub)
+(draft)
+Upload to Zenodo and then sumbit to the AIAC Community where it will be moderated. 
+
+### Guidelines for Submission's content and format
+
+It should be easily and openly readable, e.g., plaintext/markdown and images or an ipython notebook. 
+If appropriate, a PDF rendering is encouraged.
+
+Something about URL and/or original blog.
 
 ## How ADS indexes the Archive
 
