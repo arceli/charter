@@ -37,6 +37,7 @@ anything relevant to the astronomy community that doesn't have a home elsewhere
 
 (draft)
 scientific results that could otherwise be published on the arxiv
+see discussion in #6
 
 ### Accepted Media
 
