@@ -13,7 +13,9 @@ This is a working document that specifies how Arceli will work.
     * Arceli has an Editor and Board that is backed by astronomy libraries and the AAS or similar organizations,
     * Arceli is fundamentally a Zenodo curated community,
     * ADS agrees to index the resources of this Zenodo community,
+    * [PressForward](http://pressforward.org/) is used to collect and discuss content
     * Online Publishers (such as a blog) apply for affiliation with Arceli. Each affiliated Publisher gains its own community within the umbrella Arceli community. This allows for self-moderation by Publishers while also giving oversight to Arceli. (Note: this community-in-a-community structure is an upcoming Zenodo feature).
+    * Online publishers are given an account on PressForward in order to allow for self-moderation and community curation.
 - The Publisher posts their content to the web as usual. The Publisher retains all rights to their work, but the content must be licensed to allow for archiving.
 - Only if the Publisher deems the content to be relevant to scholarly astronomy discourse do they intentionally submit the content to the Zenodo community. This also implies that content can be retroactively submitted.
     * The submission consists of the work's source content. There is no prescribed format, but it should be easily and openly readable, e.g., plaintext/markdown and images or an ipython notebook. A PDF rendering could also be provided, secondarily.
@@ -29,6 +31,10 @@ This is a working document that specifies how Arceli will work.
 whoever can talk the loudest/type the fastest gets their way.
 
 ## Moderation
+
+[PressForward](https://github.com/PressForward/pressforward/wiki/User-Manual#using-the-all-content-page-how-to-read-nominate-and-add-comments-to-items) provides the platform for the editors to curate and discuss content.
+
+TBD: who will actually moderate and make final go to publish.
 
 ### Accepted Subjects
 
@@ -58,6 +64,11 @@ Scientific results that could otherwise be published on the arxiv. See discussio
 
 ## Technical Aspects of Submitting to Arceli
 
+PressForward site collects all the content via RSS feeds and allows it be moderated.
+
+Content can be nominated manually with PressForward [Nominate This bookmarklet](https://github.com/PressForward/pressforward/wiki/User-Manual#installing-and-using-the-nominate-this-bookmarklet)
+
+Workflow for Zenodo upload and DOI is TBD.
 Upload to Zenodo and then submit to the Arceli community where it will be moderated. 
 
 Arceli may provide some tools to ease the work of submitting content. Christopher Erdmann has suggested that Harvard CfA may make a Wordpress Plugin. LSST (@jonathansick) and others will probably make a Python tool for plaintext static blogs.
@@ -86,6 +97,8 @@ Zenodo's [REST API specifies metadata](https://zenodo.org/dev#restapi-rep-meta) 
 - `related_identifiers` should be automatically amended after submission to include the ADS bibcode.
 
 ## How ADS indexes Arceli
+
+TBD
 
 ### Bibcode Format
 
