@@ -68,10 +68,10 @@ PressForward site collects all the content via RSS feeds and allows it be modera
 
 Content can be nominated manually with PressForward [Nominate This bookmarklet](https://github.com/PressForward/pressforward/wiki/User-Manual#installing-and-using-the-nominate-this-bookmarklet)
 
-Workflow for Zenodo upload and DOI is TBD.
-Upload to Zenodo and then submit to the Arceli community where it will be moderated. 
+Workflow for Zenodo will borrow from [Making Your Code Citable](https://guides.github.com/activities/citable-code/).
+A hook from PressForward WP will allow for communications to be deposited in Zenodo/Arceli communities after they are moderated/reviewed.
 
-Arceli may provide some tools to ease the work of submitting content. Christopher Erdmann has suggested that Harvard CfA may make a Wordpress Plugin. LSST (@jonathansick) and others will probably make a Python tool for plaintext static blogs.
+Arceli may provide some tools to ease the work of submitting content. LSST (@jonathansick) and others will probably make a Python tool for plaintext static blogs.
 
 ### Guidelines for Submission's content and format
 
