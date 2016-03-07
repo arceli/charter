@@ -18,7 +18,7 @@ This is a working document that specifies how Arceli will work.
     * Online publishers are given an account on PressForward in order to allow for self-moderation and community curation.
 - The Publisher posts their content to the web as usual. The Publisher retains all rights to their work, but the content must be licensed to allow for archiving.
 - Only if the Publisher deems the content to be relevant to scholarly astronomy discourse do they intentionally submit the content to the Zenodo community. This also implies that content can be retroactively submitted.
-    * The submission consists of the work's source content. There is no prescribed format, but it should be easily and openly readable, e.g., plaintext/markdown and images or an ipython notebook. A PDF rendering could also be provided, secondarily.
+    * The submission consists of the work's source content. There is no prescribed format, but it should be easily and openly readable, e.g., plaintext/markdown and images or an ipython or Jupyter notebook. A PDF rendering could also be provided, secondarily.
     * The deposition is made into the Publisher's own Zenodo sub-community within Arceli's community via a submission form on Zenodo or through the REST API.
     * Arceli accepts the submission automatically because the Publisher is affiliated (trusted) and has its own community. This reduces Arceli's operational cost.
     * The Publisher gets a DOI for the content and it is up the Publisher to put this DOI into any online markup.
@@ -51,7 +51,7 @@ Scientific results that could otherwise be published on the arxiv. See discussio
 (draft)
 
 - blog posts that contain text and images
-- ipython notebooks which contain explanatory text
+- ipython or jupyter notebooks which contain explanatory text
 - videos - paper summaries, tutorials, etc.
 - animations and graphics? - visuals which could be of use to wider community
 - talk slides? - talk slides with relevance to the wider community.
@@ -75,7 +75,7 @@ Arceli may provide some tools to ease the work of submitting content. LSST (@jon
 
 ### Guidelines for Submission's content and format
 
-It should be easily and openly readable, e.g., plaintext/markdown and images or an ipython notebook. 
+It should be easily and openly readable, e.g., plaintext/markdown and images or an ipython or Jupyter notebook. 
 If appropriate, a PDF rendering is encouraged.
 [Something about URL and/or original blog.](https://github.com/archive-of-informal-astronomy-comm/charter/issues/5)
 
