@@ -10,6 +10,8 @@ Team Members (in no particular order)
  - James Davenport
  - Kelle Cruz
  - Chris Erdmann
+ - Daina Bouquin
+ - Megan Potterbusch
  - Sarah Kendrew
  - Meridith Rawls 
  - Lia Corrales
@@ -17,6 +19,6 @@ Team Members (in no particular order)
  - Jake Vanderlas
  - Elisabeth Newton
  - Alberto Alcomozzi
- - Lars Holm Nielsen 
+ - Lars Holm Nielsen
 
 (See Issue #13)
