@@ -1,4 +1,4 @@
-# Arceli 
+# Arceli
 
 ## An archive of informal astronomy communications
 
@@ -75,10 +75,11 @@ Arceli may provide some tools to ease the work of submitting content. LSST (@jon
 
 ### Guidelines for Submission's content and format
 
-It should be easily and openly readable, e.g., plaintext/markdown and images or an ipython or Jupyter notebook. 
+It should be easily and openly readable, e.g., plaintext/markdown and images or an ipython or Jupyter notebook.
 If appropriate, a PDF rendering is encouraged.
 [Something about URL and/or original blog.](https://github.com/archive-of-informal-astronomy-comm/charter/issues/5)
 
+<!---
 ### REST Metadata Guidelines
 
 Zenodo's [REST API specifies metadata](https://zenodo.org/dev#restapi-rep-meta) that can be included with a submission. This section provides some guidelines on how these fields should be used.
@@ -95,7 +96,7 @@ Zenodo's [REST API specifies metadata](https://zenodo.org/dev#restapi-rep-meta) 
 - `publication_type` if the material is a `publication`, such as a blog post, how do we describe that? `other`? `technicalnote`? `report`?
 - `communities` must be the Publisher's own community within Arceli.
 - `related_identifiers` should be automatically amended after submission to include the ADS bibcode.
-
+-->
 ## How ADS indexes Arceli
 
 TBD
