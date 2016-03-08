@@ -11,10 +11,10 @@ Acceptance criteria
 # Guidelines For Submissions to Arceli
 
 ## Best practices
-*	If you use Wordpress or similar blog hosting service, install a plugin that allows you to automatically add headers to each of your blog posts (these will become the metadata).
+* If you use Wordpress or similar blog hosting service, install a plugin that allows you to automatically add headers to each of your blog posts (these will become the metadata).
 * If you use Tumblr, we suggest that select a theme/skin that displays the keywords in the metadata (such as: )
 * Twitter?
-*	In the submission form accessed using the Arceli Bookmarklette
+* In the submission form accessed using the Arceli Bookmarklette
 ..* Separate multiple terms with semicolons.
 ..* Check accuracy of auto-populated fields (such as description and date)
 ..* The date that appears should be the date the blog was posted
