@@ -75,8 +75,8 @@ A hook from PressForward WP will allow for communications to be deposited in Zen
 Arceli may provide some tools to ease the work of submitting content. LSST (@jonathansick) and others will probably make a Python tool for plaintext static blogs.
 
 ### Metadata Information
-The current metadata crosswalk is accessible [here](https://docs.google.com/spreadsheets/d/1ti2ny9o0_fpA0ZgWe_F6o9ISmBApEjjDRTu0P7XLRd4/edit?usp=sharing)
-Discussion on metadata issues can be found in the repo [issues](https://github.com/arceli/charter/issues/24)
+The current metadata crosswalk is accessible [here](https://docs.google.com/spreadsheets/d/1ti2ny9o0_fpA0ZgWe_F6o9ISmBApEjjDRTu0P7XLRd4/edit?usp=sharing).   
+Discussion on metadata can be found in the repo issues [here](https://github.com/arceli/charter/issues/24).
 
 ### Guidelines for Submission's content and format
 
