@@ -13,4 +13,4 @@
 
 
 ## Acceptance Criteria
-    Astronomy and astrophysics related grey literature, including blogs, tweets, and similar, informal publications.  Content must be scientifically relevant or relevant to the discipline in general (e.g. publication practices, new developments, cultural issues).  To qualify, the item for preservation must be intended to be in its complete, final and  static form.
+Astronomy and astrophysics related grey literature, including blogs, tweets, and similar, informal publications.  Content must be scientifically relevant or relevant to the discipline in general (e.g. publication practices, new developments, cultural issues).  To qualify, the item for preservation must be intended to be in its complete, final and  static form.
