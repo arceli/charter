@@ -23,6 +23,8 @@ This is a working document that specifies the vision for Arceli and how the proj
 - ADS indexes Arceli's resources.
 - If a Publisher is found to in breach of these guidelines, the Publisher may lose affiliate status and have their articles removed from the Zenodo community and ADS.
 
+![alt text](https://github.com/dbouquin/charter/raw/master/assets/arceli_workflow.png "Arceli workflow")
+
 ## Governance
 
 Arceli is under continuous development by a group of professional astronomers, librarians, and software developers. The Project is community-driven, with decisions generally made by consensus, but with oversight and organization provided be two project leads: ScienceBetter (Kelle Cruz) and CfA Library (Chris Erdmann). Press Forward, Zenodo, and ADS organization are project partners. The project leads work closely with representatives from the partner organizations to make functional, technical, and financial decisions.
