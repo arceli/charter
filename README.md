@@ -44,7 +44,7 @@ Anything relevant to the astronomy community that doesn't have a home elsewhere.
 
 Scientific results that could otherwise be published on the arxiv. See discussion in [#6](https://github.com/archive-of-informal-astronomy-comm/charter/issues/6).
 
-## Medea
+## Media
 ### Accepted Media
 
 We plan to accept:
@@ -85,15 +85,3 @@ Zenodo's [REST API specifies metadata](https://zenodo.org/dev#restapi-rep-meta) 
 ## How ADS indexes Arceli
 
 TBD
-
-### Bibcode Format
-
-(stub)
-
-### BibTeX Format
-
-(stub)
-
-### Metrics that can be provided to and by ADS
-
-(stub)
