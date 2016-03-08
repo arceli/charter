@@ -84,4 +84,13 @@ Zenodo's [REST API specifies metadata](https://zenodo.org/dev#restapi-rep-meta) 
 
 ## How ADS indexes Arceli
 
-TBD
+Pages processed by Arceli will appear like normal articles on ADS. You will see the normal fields filled with helpful data:
+
+- **Title** will be the Blog Post Title
+- **Authors** will be the Blog Post Authors
+- **Affiliations** will be the Blog Post Author's affiliations, if available
+- **Publication** will say	 "BLOG TITLE, Aggregated by Arceli"
+- **Publication Date** will be the blog post published date, not the Arceli archive date.
+- **DOI** will be filled in with the Zenodo-generated DOI
+- **bibstem** (the first part of the **Bibliographic Code**) will be `2016arcel..etc`
+
