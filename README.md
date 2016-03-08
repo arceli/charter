@@ -27,8 +27,9 @@ This is a working document that specifies how Arceli will work.
 
 ## Governance
 
-(stub)
-whoever can talk the loudest/type the fastest gets their way.
+Arceli is under continuous development by a group of professional astronomers, librarians, and software developers. The Project is community-driven, with decisions generally made by consensus, but with oversight and organization provided be two project leads, Kelle Cruz (ScienceBetter) and Chris Erdmann (CfA Head Librarian).
+
+
 
 ## Moderation
 
